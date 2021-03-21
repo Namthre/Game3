@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+    <Reference Include="UnityEngine.UI">
+      <HintPath>C:\Program Files\Unity\Hub\Editor\2019.2.19f1\Editor\Data\Resources\PackageManager\ProjectTemplates\libcache\com.unity.template.2d-3.2.5\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+
+</Project>
